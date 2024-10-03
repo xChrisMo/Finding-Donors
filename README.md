@@ -1,4 +1,4 @@
-# Finding Donors Comparative Project
+# Finding Donors 
 
 ## Project Overview
 This project provides a comprehensive analysis to predict potential eligible donors for a charity organization using comparative supervised learning techniques. The goal is to identify individuals most likely to donate based on their demographic information.
